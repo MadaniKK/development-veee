@@ -45,9 +45,9 @@ html, body {
   display: flex;
   flex-direction: column;
   border: 2px;
-  border-style:dashed;
-  border-color: black;
-  border-radius: 15px;
+  border-style: solid;
+  border-color: goldenrod;
+  border-radius: 10px;
   width: 90%;
   margin: auto;
   margin-bottom: 20px;
@@ -56,9 +56,6 @@ html, body {
   background-color: white;
   font-family: "'Times New Roman', Times, serif";
   font-size: larger;
-  
-
-  
 
 }
 img{
